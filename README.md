@@ -15,7 +15,7 @@ This project automates the login process for the OrangeHRM demo website using Se
 - Python 3.x
 - Selenium 4.4.0
 - webdriver-manager 3.8.5
-- Brave browser installed via Snap on Linux Mint
+- Chrome browser installed via Snap on Linux Mint
 
 ## Installation
 
@@ -38,7 +38,7 @@ This project automates the login process for the OrangeHRM demo website using Se
 
 ## Usage
 
-1. Make sure Brave browser is installed via Snap:
+1. Make sure Chrome browser is installed via Snap:
     ```sh
     sudo snap install brave
     ```
